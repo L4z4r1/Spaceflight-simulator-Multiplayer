@@ -42,7 +42,7 @@ edit the ```email``` and ```password``` to your email and password for mega.nz
 **6.** run ```pyinstaller "~/SFS Multiplayer/Main.py" --noconfirm --onefile --console --name "SFS Multiplayer" --key "[your key]"```
 in the working directory
 
-**7.** share the files with some peaople and enjoy!
+**7.** share the files with some people and enjoy!
 
 # IMAGES:
 ![mulEx1](https://user-images.githubusercontent.com/107078837/203858883-5b6e576f-cc63-4e5a-99db-fbf84cca435b.png)
