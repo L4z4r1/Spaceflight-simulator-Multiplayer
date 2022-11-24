@@ -23,7 +23,7 @@ YES. It is 100% safe to use, operator of the server can encrypt the data for ano
 *In some cases mega.py wont work, then do ```pip uninstall mega.py``` and then ```pip install mega```*
 
 **3.** download the files:
-```git clone https://github.com/L4z4r1/Spaceflight-simulator-Multiplayer```
+```git clone https://github.com/L4z4r1/Spaceflight-simulator-Multiplayer.git```
 
 **4.** go to https://mega.nz/ and create a new account
 
