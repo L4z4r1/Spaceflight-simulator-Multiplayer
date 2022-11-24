@@ -48,10 +48,18 @@ in the working directory
 ![mulEx1](https://user-images.githubusercontent.com/107078837/203858883-5b6e576f-cc63-4e5a-99db-fbf84cca435b.png)
 
 # PLANS:
+
 **-** make a way to ban users and operate the "server"
+
 **-** make the app compatible with mods
+
 **-** enhance security
+
 **-** make a way for it to work with android
-**-** make it automaticaly sync worlds
+
+**-** make it automaticaly sync 
+
 **-** make it automaticaly back-up worlds
+
 **-** fix some known bugs
+
