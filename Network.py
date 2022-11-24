@@ -3,8 +3,8 @@ from mega import Mega
 mega = Mega({'verbose': True})
 
 #Your e-mail and password for MEGA
-email = "spymail122111@gmail.com"
-password = "Q2C5x8sPmDrmArZ"
+email = "example@example.com"
+password = "xxxxxxxxxxxxx"
 
 m = mega.login(email, password)
 
